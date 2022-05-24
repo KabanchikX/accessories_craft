@@ -1,0 +1,3 @@
+displayName = accessory craft mod
+author = kabanchikX
+version = 1.0.0.1
